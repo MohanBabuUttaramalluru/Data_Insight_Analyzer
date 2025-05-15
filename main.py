@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
 
 
 import Cleaning_and_Loading as CL
@@ -22,14 +19,6 @@ if __name__ == "__main__":
         response = QP.process_query(query, df)
         print(response)
 
-
-# In[ ]:
-
-
-Tumor_Detection.csv
-
-
-# In[ ]:
 
 
 
